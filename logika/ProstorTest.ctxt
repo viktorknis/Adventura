@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ProstorTest
+comment0.text=\n\ Testovac\u00ED\ t\u0159\u00EDda\ ProstorTest\ slou\u017E\u00ED\ ke\ komplexn\u00EDmu\ otestov\u00E1n\u00ED\n\ t\u0159\u00EDdy\ Prostor\n\n\ @author\ \ \ \ Viktor\ Knis\n\ @version\ \ \ pro\ skoln\u00ED\ rok\ 2016/2017\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\n\ Metoda\ se\ provede\ p\u0159ed\ spu\u0161t\u011Bn\u00EDm\ ka\u017Ed\u00E9\ testovac\u00ED\ metody.\ Pou\u017E\u00EDv\u00E1\ se\n\ k\ vytvo\u0159en\u00ED\ tzv.\ p\u0159\u00EDpravku\ (fixture),\ co\u017E\ jsou\ datov\u00E9\ atributy\ (objekty),\n\ s\ nimi\u017E\ budou\ testovac\u00ED\ metody\ pracovat.\n
+comment2.params=
+comment2.target=void\ tearDown()
+comment2.text=\n\ \u00DAklid\ po\ testu\ -\ tato\ metoda\ se\ spust\u00ED\ po\ vykon\u00E1n\u00ED\ ka\u017Ed\u00E9\ testovac\u00ED\ metody.\n
+comment3.params=
+comment3.target=void\ testLzeProjit()
+comment3.text=\n\ Testuje,\ zda\ jsou\ spr\u00E1vn\u011B\ nastaveny\ pr\u016Fchody\ mezi\ prostory\ hry.\ Prostory\n\ nemus\u00ED\ odpov\u00EDdat\ vlastn\u00ED\ h\u0159e,\ \n
+comment4.params=
+comment4.target=void\ test()
+numComments=5

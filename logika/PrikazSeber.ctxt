@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PrikazSeber
+comment0.text=\n\ Instance\ t\u0159\u00EDdy\ Seber\ p\u0159edstavuj\u00ED\ ...\n\n\ @author\ \ \ \ Viktor\ Knis\n\ @version\ \ \ 0.00.000\n
+comment1.params=plan
+comment1.target=PrikazSeber(HerniPlan)
+comment1.text=\n\ \ Konstruktor\ t\u0159\u00EDdy\n\ \ \n\ \ @param\ plan\ hern\u00ED\ pl\u00E1n,\ ve\ kter\u00E9m\ se\ bude\ ve\ h\u0159e\ "chodit"\ \n
+comment2.params=parametry
+comment2.target=java.lang.String\ provedPrikaz(java.lang.String[])
+comment2.text=\n\ \ Prov\u00E1d\u00ED\ p\u0159\u00EDkaz\ "jdi".\ Zkou\u0161\u00ED\ se\ vyj\u00EDt\ do\ zadan\u00E9ho\ prostoru.\ Pokud\ prostor\n\ \ existuje,\ vstoup\u00ED\ se\ do\ nov\u00E9ho\ prostoru.\ Pokud\ zadan\u00FD\ sousedn\u00ED\ prostor\n\ \ (v\u00FDchod)\ nen\u00ED,\ vyp\u00ED\u0161e\ se\ chybov\u00E9\ hl\u00E1\u0161en\u00ED.\n\n@param\ parametry\ -\ jako\ \ parametr\ obsahuje\ jm\u00E9no\ prostoru\ (v\u00FDchodu),\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ do\ kter\u00E9ho\ se\ m\u00E1\ j\u00EDt.\n@return\ zpr\u00E1va,\ kterou\ vyp\u00ED\u0161e\ hra\ hr\u00E1\u010Di\n
+comment3.params=
+comment3.target=java.lang.String\ getNazev()
+comment3.text=\n\ \ Metoda\ vrac\u00ED\ n\u00E1zev\ p\u0159\u00EDkazu\ (slovo\ kter\u00E9\ pou\u017E\u00EDv\u00E1\ hr\u00E1\u010D\ pro\ jeho\ vyvol\u00E1n\u00ED)\n\ \ \n\ \ @\ return\ nazev\ prikazu\n
+numComments=4

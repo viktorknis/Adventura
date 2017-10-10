@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SeznamPrikazuTest
+comment0.text=\n\ Testovac\u00ED\ t\u0159\u00EDda\ SeznamPrikazuTest\ slou\u017E\u00ED\ ke\ komplexn\u00EDmu\ otestov\u00E1n\u00ED\ t\u0159\u00EDdy\ \ \n\ SeznamPrikazu\n\ \n\ @author\ \ \ \ Viktor\ Knis\n\ @version\ \ \ pro\ \u0161koln\u00ED\ rok\ 2016/2017\n
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ testVlozeniVybrani()
+comment3.params=
+comment3.target=void\ testJePlatnyPrikaz()
+comment4.params=
+comment4.target=void\ testNazvyPrikazu()
+numComments=5

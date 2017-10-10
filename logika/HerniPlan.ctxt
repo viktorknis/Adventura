@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=HerniPlan
+comment0.text=\n\ \ Class\ HerniPlan\ -\ t\u0159\u00EDda\ p\u0159edstavuj\u00EDc\u00ED\ mapu\ a\ stav\ adventury.\n\ \n\ \ Tato\ t\u0159\u00EDda\ inicializuje\ prvky\ ze\ kter\u00FDch\ se\ hra\ skl\u00E1d\u00E1\:\n\ \ vytv\u00E1\u0159\u00ED\ v\u0161echny\ prostory,\n\ \ propojuje\ je\ vz\u00E1jemn\u011B\ pomoc\u00ED\ v\u00FDchod\u016F\ \n\ \ a\ pamatuje\ si\ aktu\u00E1ln\u00ED\ prostor,\ ve\ kter\u00E9m\ se\ hr\u00E1\u010D\ pr\u00E1v\u011B\ nach\u00E1z\u00ED.\n\n\ @author\ \ \ \ Viktor\ Knis\n@version\ \ \ \ pro\ \u0161koln\u00ED\ rok\ 2016/2017\n
+comment1.params=hra
+comment1.target=HerniPlan(Hra)
+comment1.text=\n\ \ Konstruktor\ kter\u00FD\ vytv\u00E1\u0159\u00ED\ jednotliv\u00E9\ prostory\ a\ propojuje\ je\ pomoc\u00ED\ v\u00FDchod\u016F.\n\ \ Jako\ v\u00FDchoz\u00ED\ aktu\u00E1ln\u00ED\ prostor\ nastav\u00ED\ halu.\n
+comment2.params=
+comment2.target=void\ zalozProstoryHry()
+comment2.text=\n\ \ Vytv\u00E1\u0159\u00ED\ jednotliv\u00E9\ prostory\ a\ propojuje\ je\ pomoc\u00ED\ v\u00FDchod\u016F.\n\ \ Jako\ v\u00FDchoz\u00ED\ aktu\u00E1ln\u00ED\ prostor\ nastav\u00ED\ dome\u010Dek.\n
+comment3.params=
+comment3.target=Prostor\ getAktualniProstor()
+comment3.text=\n\ \ Metoda\ vrac\u00ED\ odkaz\ na\ aktu\u00E1ln\u00ED\ prostor,\ ve\ ktet\u00E9m\ se\ hr\u00E1\u010D\ pr\u00E1v\u011B\ nach\u00E1z\u00ED.\n\n@return\ \ \ \ \ aktu\u00E1ln\u00ED\ prostor\n
+comment4.params=prostor
+comment4.target=void\ setAktualniProstor(Prostor)
+comment4.text=\n\ \ Metoda\ nastav\u00ED\ aktu\u00E1ln\u00ED\ prostor,\ pou\u017E\u00EDv\u00E1\ se\ nej\u010Dast\u011Bji\ p\u0159i\ p\u0159echodu\ mezi\ prostory\n\n@param\ \ prostor\ nov\u00FD\ aktu\u00E1ln\u00ED\ prostor\n
+comment5.params=
+comment5.target=Batoh\ getBatoh()
+comment6.params=
+comment6.target=Hra\ getHra()
+comment7.params=a
+comment7.target=void\ Otevri(int)
+comment8.params=
+comment8.target=boolean\ getZavrenaMistnostVlk()
+comment9.params=
+comment9.target=boolean\ getZavrenaMistnostDrak()
+numComments=10

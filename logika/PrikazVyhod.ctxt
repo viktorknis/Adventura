@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PrikazVyhod
+comment0.text=\n\ @author\ \ \ \ Viktor\ Knis\n\ Tato\ T\u0159\u00EDda\ se\ star\u00E1\ o\ vyhazov\u00E1n\u00ED\ v\u011Bc\u00ED.\n\ Prvn\u011B\ zjist\u00ED,\ zda\ hr\u00E1\u010D\ zadal\ jakou\ v\u011Bc\ chce\ vyhodit.\n\ N\u00E1sledn\u011B\ zjist\u00ED,\ jestli\ m\u00E1\ danou\ v\u011Bc\ ba\u0165\u016F\u017Eku.\n\ Poku\u010F\ ano\ tak\ j\u00ED\ vyhod\u00ED\ a\ v\u011Bc\ skon\u010D\u00ED\ v\ prostoru\ ve\ kter\u00E9m\ se\ hr\u00E1\u010D\ nach\u00E1z\u00ED\ a\ m\u016F\u017Ee\ j\u00ED\ znovu\ sebrat.\n
+comment1.params=plan
+comment1.target=PrikazVyhod(HerniPlan)
+comment1.text=\n\ Konstruktor\ t\u0159\u00EDdy,\ kter\u00FD\ nastavuje\ hern\u00ED\ pl\u00E1n.\n
+comment2.params=parametry
+comment2.target=java.lang.String\ provedPrikaz(java.lang.String[])
+comment2.text=\n\ Tato\ metoda\ se\ star\u00E1\ o\ ve\u0161kerou\ funkcionalitu\ popsanou\ v\ z\u00E1kladn\u00EDm\ popisu\ t\u0159\u00EDdy.\n
+comment3.params=
+comment3.target=java.lang.String\ getNazev()
+comment3.text=\n\ \ Metoda\ vrac\u00ED\ n\u00E1zev\ p\u0159\u00EDkazu\ (slovo\ kter\u00E9\ pou\u017E\u00EDv\u00E1\ hr\u00E1\u010D\ pro\ jeho\ vyvol\u00E1n\u00ED)\n\ \ \n\ \ @\ return\ nazev\ prikazu\n
+numComments=4

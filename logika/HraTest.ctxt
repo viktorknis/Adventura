@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=HraTest
+comment0.text=\n\ Testovac\u00ED\ t\u0159\u00EDda\ HraTest\ slou\u017E\u00ED\ ke\ komplexn\u00EDmu\ otestov\u00E1n\u00ED\n\ t\u0159\u00EDdy\ Hra\n\n\ @author\ \ \ \ Viktor\ Knis\n\ @version\ \ pro\ \u0161koln\u00ED\ rok\ 2016/2017\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\n\ Metoda\ se\ provede\ p\u0159ed\ spu\u0161t\u011Bn\u00EDm\ ka\u017Ed\u00E9\ testovac\u00ED\ metody.\ Pou\u017E\u00EDv\u00E1\ se\n\ k\ vytvo\u0159en\u00ED\ tzv.\ p\u0159\u00EDpravku\ (fixture),\ co\u017E\ jsou\ datov\u00E9\ atributy\ (objekty),\n\ s\ nimi\u017E\ budou\ testovac\u00ED\ metody\ pracovat.\n
+comment2.params=
+comment2.target=void\ tearDown()
+comment2.text=\n\ \u00DAklid\ po\ testu\ -\ tato\ metoda\ se\ spust\u00ED\ po\ vykon\u00E1n\u00ED\ ka\u017Ed\u00E9\ testovac\u00ED\ metody.\n
+comment3.params=
+comment3.target=void\ testVyhry()
+comment3.text=\n\ Test\ testuje\ dohratelnost\ hry.\ Proto\u017Ee\ hra\ generuje\ p\u0159edm\u011Bty,\ kter\u00E9\ se\ daj\u00ED\ sebrat\ n\u00E1hodn\u011B,\ tak\ je\ nutn\u00E9\ si\ vytvo\u0159it\ men\u0161\u00ED\ ,,hack,,\n\ Vytvo\u0159\u00EDme\ si\ v\u011Bci,\ d\u00E1me\ si\ je\ do\ m\u00EDstnosti\ jako\ kdybysme\ je\ sebrali.\n\ \n
+comment4.params=
+comment4.target=void\ testProhry()
+comment5.params=
+comment5.target=void\ testProhry2()
+numComments=6

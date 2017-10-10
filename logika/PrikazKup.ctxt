@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PrikazKup
+comment0.text=\n\ \ T\u0159\u00EDda\ Kup\ se\ star\u00E1\ o\ v\u00FDm\u011Bnu\ v\u011Bc\u00ED\ za\ me\u010D\ v\ lokaci\ kr\u010Dma.\n\ \ Tato\ t\u0159\u00EDda\ je\ sou\u010D\u00E1st\u00ED\ jednoduch\u00E9\ textov\u00E9\ hry.\n\ \ \n
+comment1.params=plan
+comment1.target=PrikazKup(HerniPlan)
+comment1.text=\n\ \ Konstruktor\ t\u0159\u00EDdy\n\ \ \n\ \ @param\ plan\ hern\u00ED\ pl\u00E1n,\ ve\ kter\u00E9m\ se\ bude\ ve\ h\u0159e\ "chodit"\ \n
+comment2.params=parametry
+comment2.target=java.lang.String\ provedPrikaz(java.lang.String[])
+comment2.text=\n\n@param\ parametry\ -\ Jako\ parametr\ mus\u00ED\ b\u00FDt\ uveden\ me\u010D\ -\ to\ co\ chceme\ koupit.\n\ \ \n@return\ zpr\u00E1va,\ kterou\ vyp\u00ED\u0161e\ hra\ hr\u00E1\u010Di\n
+comment3.params=
+comment3.target=java.lang.String\ getNazev()
+comment3.text=\n\ \ Metoda\ vrac\u00ED\ n\u00E1zev\ p\u0159\u00EDkazu\ (slovo\ kter\u00E9\ pou\u017E\u00EDv\u00E1\ hr\u00E1\u010D\ pro\ jeho\ vyvol\u00E1n\u00ED)\n\ \ \n\ \ @\ return\ nazev\ prikazu\n
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Batoh
+comment0.text=\n\ @author\ \ \ \ Viktor\ Knis\n\ Batoh\ p\u0159edstavuje\ t\u0159\u00EDdu,\ do\ kter\u00E9\ se\ ukl\u00E1daj\u00ED\ jednotliv\u00E9\ v\u011Bci\ -\ nese\ z\u00E1znam\ toho\ co\ m\u00E1\ \u010Dlov\u011Bk\ \ u\ sebe.\n
+comment1.params=
+comment1.target=Batoh()
+comment2.params=vec
+comment2.target=void\ pridejVec(Vec)
+comment3.params=
+comment3.target=java.util.Map\ vratObsahBatohu()
+comment4.params=nazev
+comment4.target=Vec\ vyhodVec(java.lang.String)
+comment5.params=nazev
+comment5.target=java.lang.Boolean\ obsahujeVec(java.lang.String)
+comment6.params=
+comment6.target=int\ getKapacita()
+numComments=7
