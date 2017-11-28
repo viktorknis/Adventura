@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Start
-comment0.text=\n\ T\u0159\u00EDda\ \ Start\ je\ hlavn\u00ED\ t\u0159\u00EDdou\ projektu,\n\ kter\u00FD\ p\u0159edstavuje\ jednoduchou\ textovou\ adventuru\ ur\u010Denou\ k\ dal\u0161\u00EDm\ \u00FAprav\u00E1m\ a\ roz\u0161i\u0159ov\u00E1n\u00ED\n\n\ @author\ \ \ \ Viktor\ Knis\n\ @version\ \ \ ZS\ 2016/2017\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-comment1.text=\n\ Metoda,\ prost\u0159ednictv\u00EDm\ n\u00ED\u017E\ se\ spou\u0161t\u00ED\ cel\u00E1\ aplikace.\n\n\ @param\ args\ Parametry\ p\u0159\u00EDkazov\u00E9ho\ \u0159\u00E1dku\n
-numComments=2
